@@ -1,0 +1,11 @@
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\obj\Debug\netcoreapp3.1\pratical3.csprojAssemblyReference.cache
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\obj\Debug\netcoreapp3.1\pratical3.AssemblyInfoInputs.cache
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\obj\Debug\netcoreapp3.1\pratical3.AssemblyInfo.cs
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\bin\Debug\netcoreapp3.1\pratical3.exe
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\bin\Debug\netcoreapp3.1\pratical3.deps.json
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\bin\Debug\netcoreapp3.1\pratical3.runtimeconfig.json
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\bin\Debug\netcoreapp3.1\pratical3.runtimeconfig.dev.json
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\bin\Debug\netcoreapp3.1\pratical3.dll
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\bin\Debug\netcoreapp3.1\pratical3.pdb
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\obj\Debug\netcoreapp3.1\pratical3.dll
+D:\COLLAGE\Documents\6th SEM\.net\DotNetPraticals\pratical3\obj\Debug\netcoreapp3.1\pratical3.pdb
