@@ -1,0 +1,11 @@
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.deps.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.dev.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfoInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfo.cs
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csprojAssemblyReference.cache

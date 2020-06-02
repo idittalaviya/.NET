@@ -1,0 +1,10 @@
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\bin\Debug\ChangeFont.exe.config
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\bin\Debug\ChangeFont.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\bin\Debug\ChangeFont.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\obj\Debug\9. ChangeFont.csprojAssemblyReference.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\obj\Debug\ChangeFont.Form1.resources
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\obj\Debug\ChangeFont.Properties.Resources.resources
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\obj\Debug\9. ChangeFont.csproj.GenerateResource.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\obj\Debug\9. ChangeFont.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\obj\Debug\ChangeFont.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\9. ChangeFont\obj\Debug\ChangeFont.pdb

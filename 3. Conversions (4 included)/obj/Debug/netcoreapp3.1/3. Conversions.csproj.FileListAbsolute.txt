@@ -1,0 +1,13 @@
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\bin\Debug\netcoreapp3.1\3. Conversions.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\bin\Debug\netcoreapp3.1\3. Conversions.deps.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\bin\Debug\netcoreapp3.1\3. Conversions.runtimeconfig.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\bin\Debug\netcoreapp3.1\3. Conversions.runtimeconfig.dev.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\bin\Debug\netcoreapp3.1\3. Conversions.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\bin\Debug\netcoreapp3.1\3. Conversions.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\obj\Debug\netcoreapp3.1\3. Conversions.csprojAssemblyReference.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\obj\Debug\netcoreapp3.1\3. Conversions.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\obj\Debug\netcoreapp3.1\3. Conversions.AssemblyInfoInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\obj\Debug\netcoreapp3.1\3. Conversions.AssemblyInfo.cs
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\obj\Debug\netcoreapp3.1\3. Conversions.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\obj\Debug\netcoreapp3.1\3. Conversions.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\3. Conversions (4 included)\obj\Debug\netcoreapp3.1\3. Conversions.genruntimeconfig.cache

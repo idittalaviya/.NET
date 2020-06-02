@@ -1,0 +1,12 @@
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\bin\Debug\netcoreapp3.1\5. InfixToPostfix.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\bin\Debug\netcoreapp3.1\5. InfixToPostfix.deps.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\bin\Debug\netcoreapp3.1\5. InfixToPostfix.runtimeconfig.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\bin\Debug\netcoreapp3.1\5. InfixToPostfix.runtimeconfig.dev.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\bin\Debug\netcoreapp3.1\5. InfixToPostfix.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\bin\Debug\netcoreapp3.1\5. InfixToPostfix.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\obj\Debug\netcoreapp3.1\5. InfixToPostfix.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\obj\Debug\netcoreapp3.1\5. InfixToPostfix.AssemblyInfoInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\obj\Debug\netcoreapp3.1\5. InfixToPostfix.AssemblyInfo.cs
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\obj\Debug\netcoreapp3.1\5. InfixToPostfix.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\obj\Debug\netcoreapp3.1\5. InfixToPostfix.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfix\obj\Debug\netcoreapp3.1\5. InfixToPostfix.genruntimeconfig.cache

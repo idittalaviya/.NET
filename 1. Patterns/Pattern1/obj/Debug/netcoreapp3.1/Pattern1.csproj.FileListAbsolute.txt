@@ -1,0 +1,11 @@
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.exe
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.deps.json
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.runtimeconfig.json
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.runtimeconfig.dev.json
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.dll
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.pdb
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.csprojAssemblyReference.cache
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.AssemblyInfoInputs.cache
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.AssemblyInfo.cs
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.dll
+D:\Learn\College\Sem-6\NET Technology\LabPrograms\DotNet-Academic-Projects\Pattern1\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.pdb

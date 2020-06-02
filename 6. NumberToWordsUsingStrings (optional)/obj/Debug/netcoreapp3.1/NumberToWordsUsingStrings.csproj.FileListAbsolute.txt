@@ -1,0 +1,11 @@
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\bin\Debug\netcoreapp3.1\NumberToWordsUsingStrings.exe
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\bin\Debug\netcoreapp3.1\NumberToWordsUsingStrings.deps.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\bin\Debug\netcoreapp3.1\NumberToWordsUsingStrings.runtimeconfig.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\bin\Debug\netcoreapp3.1\NumberToWordsUsingStrings.runtimeconfig.dev.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\bin\Debug\netcoreapp3.1\NumberToWordsUsingStrings.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\bin\Debug\netcoreapp3.1\NumberToWordsUsingStrings.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\obj\Debug\netcoreapp3.1\NumberToWordsUsingStrings.AssemblyInfoInputs.cache
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\obj\Debug\netcoreapp3.1\NumberToWordsUsingStrings.AssemblyInfo.cs
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\obj\Debug\netcoreapp3.1\NumberToWordsUsingStrings.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\obj\Debug\netcoreapp3.1\NumberToWordsUsingStrings.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\NumberToWordsUsingStrings\obj\Debug\netcoreapp3.1\NumberToWordsUsingStrings.csprojAssemblyReference.cache

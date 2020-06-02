@@ -1,0 +1,12 @@
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\bin\Debug\netcoreapp3.1\5. InfixToPostfixBetter.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\bin\Debug\netcoreapp3.1\5. InfixToPostfixBetter.deps.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\bin\Debug\netcoreapp3.1\5. InfixToPostfixBetter.runtimeconfig.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\bin\Debug\netcoreapp3.1\5. InfixToPostfixBetter.runtimeconfig.dev.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\bin\Debug\netcoreapp3.1\5. InfixToPostfixBetter.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\bin\Debug\netcoreapp3.1\5. InfixToPostfixBetter.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\obj\Debug\netcoreapp3.1\5. InfixToPostfixBetter.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\obj\Debug\netcoreapp3.1\5. InfixToPostfixBetter.AssemblyInfoInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\obj\Debug\netcoreapp3.1\5. InfixToPostfixBetter.AssemblyInfo.cs
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\obj\Debug\netcoreapp3.1\5. InfixToPostfixBetter.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\obj\Debug\netcoreapp3.1\5. InfixToPostfixBetter.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\5. InfixToPostfixBetter (optional)\obj\Debug\netcoreapp3.1\5. InfixToPostfixBetter.genruntimeconfig.cache

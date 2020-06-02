@@ -1,0 +1,11 @@
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\bin\Debug\netcoreapp3.1\Conversions.exe
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\bin\Debug\netcoreapp3.1\Conversions.deps.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\bin\Debug\netcoreapp3.1\Conversions.runtimeconfig.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\bin\Debug\netcoreapp3.1\Conversions.runtimeconfig.dev.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\bin\Debug\netcoreapp3.1\Conversions.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\bin\Debug\netcoreapp3.1\Conversions.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.AssemblyInfoInputs.cache
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.AssemblyInfo.cs
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.csprojAssemblyReference.cache

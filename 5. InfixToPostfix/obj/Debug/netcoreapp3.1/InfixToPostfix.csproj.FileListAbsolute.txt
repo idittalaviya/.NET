@@ -1,0 +1,11 @@
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.exe
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.deps.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.runtimeconfig.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.runtimeconfig.dev.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.AssemblyInfoInputs.cache
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.AssemblyInfo.cs
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\bin\Debug\netcoreapp3.1\GetData.exe
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\bin\Debug\netcoreapp3.1\GetData.deps.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\bin\Debug\netcoreapp3.1\GetData.runtimeconfig.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\bin\Debug\netcoreapp3.1\GetData.runtimeconfig.dev.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\bin\Debug\netcoreapp3.1\GetData.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\bin\Debug\netcoreapp3.1\GetData.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\obj\Debug\netcoreapp3.1\GetData.AssemblyInfoInputs.cache
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\obj\Debug\netcoreapp3.1\GetData.AssemblyInfo.cs
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\obj\Debug\netcoreapp3.1\GetData.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\GetData\obj\Debug\netcoreapp3.1\GetData.pdb

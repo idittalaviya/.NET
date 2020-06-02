@@ -1,0 +1,13 @@
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\bin\Debug\netcoreapp3.1\8. TemperatureConversion.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\bin\Debug\netcoreapp3.1\8. TemperatureConversion.deps.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\bin\Debug\netcoreapp3.1\8. TemperatureConversion.runtimeconfig.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\bin\Debug\netcoreapp3.1\8. TemperatureConversion.runtimeconfig.dev.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\bin\Debug\netcoreapp3.1\8. TemperatureConversion.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\bin\Debug\netcoreapp3.1\8. TemperatureConversion.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\obj\Debug\netcoreapp3.1\8. TemperatureConversion.csprojAssemblyReference.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\obj\Debug\netcoreapp3.1\8. TemperatureConversion.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\obj\Debug\netcoreapp3.1\8. TemperatureConversion.AssemblyInfoInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\obj\Debug\netcoreapp3.1\8. TemperatureConversion.AssemblyInfo.cs
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\obj\Debug\netcoreapp3.1\8. TemperatureConversion.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\obj\Debug\netcoreapp3.1\8. TemperatureConversion.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\8. TemperatureConversion\obj\Debug\netcoreapp3.1\8. TemperatureConversion.genruntimeconfig.cache

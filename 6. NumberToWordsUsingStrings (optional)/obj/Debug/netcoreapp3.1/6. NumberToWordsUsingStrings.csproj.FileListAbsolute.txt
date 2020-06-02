@@ -1,0 +1,12 @@
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\bin\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\bin\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.deps.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\bin\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.runtimeconfig.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\bin\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.runtimeconfig.dev.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\bin\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\bin\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\obj\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\obj\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.AssemblyInfoInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\obj\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.AssemblyInfo.cs
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\obj\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\obj\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\6. NumberToWordsUsingStrings (optional)\obj\Debug\netcoreapp3.1\6. NumberToWordsUsingStrings.genruntimeconfig.cache
